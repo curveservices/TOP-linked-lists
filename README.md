@@ -1,6 +1,6 @@
 # Project: Linked lists
 
-## Live Demo 👉 [TOP Linked Lists](https://github.com/curveservices/TOP-linked-lists)
+## Live Demo 👉 [TOP Linked Lists](https://curveservices.github.io/TOP-linked-lists/)
 
 ## PC View 👇
 <img width="808" alt="Screenshot 2023-10-23 at 19 10 24" src="https://github.com/curveservices/TOP-linked-lists/assets/101556296/8f7986fe-5412-43e4-a338-993a9ff2684c">
