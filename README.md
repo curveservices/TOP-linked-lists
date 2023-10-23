@@ -8,7 +8,7 @@
 
 ## Overview
 
-[Project: Linked lists](https://www.theodinproject.com/lessons/javascript-linked-lists#solutions) has been set as part of [The Odin Project](https://www.theodinproject.com/)
+[Project: Linked lists](https://www.theodinproject.com/lessons/javascript-linked-lists#solutions) has been set as part of [The Odin Project](https://www.theodinproject.com/). Using either classes or factories build the following functions in to linked list class: append(value), prepend(value), size, head, tail, at(index), pop, contains(value), find(value) & toString. This took me 2 full days to complete giving me more understanding of linked lists and datastructures.
 
 ## Assets
 
